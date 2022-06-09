@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"emmet.excludeLanguages": [
+			"xsl",
+			"xslt"
+		],
+		"liveServer.settings.multiRootWorkspaceName": "Belajar"
+	}
+}
